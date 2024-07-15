@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(241, 241, 241);
+    font-family:Arial, Helvetica, sans-serif;
+}
+#titre {
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+.haut{
+    text-align: center;
+    font-size: 17px;
+}
+.img-div{
+    background-color: white;
+    text-align: center;
+    padding:25px;
+    margin: 20px;
+}
+
+h2{
+    text-align: center;
+}
+ul{
+    margin: 0 auto;
+    max-width: 550px;
+    /* text-align: left; */
+    line-height: 1.6;
+}
+ul li{
+    margin: 16px 0;
+}
+#fin{
+    text-align: center;
+}
